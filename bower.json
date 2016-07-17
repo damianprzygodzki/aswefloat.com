@@ -1,0 +1,17 @@
+{
+  "name": "awf",
+  "version": "0.0.1",
+  "authors": [
+    "Damian Przygodzki"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "bower_components"
+  ],
+  "dependencies": {
+    "angular": "^1.5.0",
+    "angular-route": "^1.5.0",
+    "parallax": "^2.1.3"
+  }
+}
